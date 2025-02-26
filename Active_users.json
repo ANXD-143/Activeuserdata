@@ -1,3 +1,9 @@
 {
-  "active_users": 5
+  "users": [
+    {"id": "user1", "status": "active"},
+    {"id": "user2", "status": "inactive"},
+    {"id": "user3", "status": "active"},
+    {"id": "user4", "status": "inactive"},
+    {"id": "user5", "status": "active"}
+  ]
 }
